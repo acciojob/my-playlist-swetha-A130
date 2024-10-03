@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+.body{
+	background-color: rgb(204, 204, 204)
+}
+	
+	.play{
+	text-align:center;
+}
+.ul{
+	list-style-type:none;
+	
+}
+.player_one, .player_two {
+            background-color: rgb(255, 255, 255);
+            padding: 10px;
+            border-radius: 5px;
+        }
+.play 1{
+	text-align:center;
+}
+.play 2{
+	text-align:center;
+}
+a {
+text-decoration-line: none;
+}
